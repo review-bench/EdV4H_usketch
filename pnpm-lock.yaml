@@ -1616,8 +1616,8 @@ importers:
         specifier: '>=1.0.0'
         version: 1.27.1(zod@4.3.6)
       '@openuidev/react-lang':
-        specifier: 0.2.5
-        version: 0.2.5(@modelcontextprotocol/sdk@1.27.1(zod@4.3.6))(react@19.2.4)(zod@4.3.6)
+        specifier: 0.2.6
+        version: 0.2.6(@modelcontextprotocol/sdk@1.27.1(zod@4.3.6))(react@19.2.4)(zod@4.3.6)
       react:
         specifier: 19.2.4
         version: 19.2.4
@@ -1878,8 +1878,8 @@ importers:
         specifier: '>=1.0.0'
         version: 1.27.1(zod@4.3.6)
       '@openuidev/react-lang':
-        specifier: 0.2.5
-        version: 0.2.5(@modelcontextprotocol/sdk@1.27.1(zod@4.3.6))(react@19.2.4)(zod@4.3.6)
+        specifier: 0.2.6
+        version: 0.2.6(@modelcontextprotocol/sdk@1.27.1(zod@4.3.6))(react@19.2.4)(zod@4.3.6)
       react:
         specifier: 19.2.4
         version: 19.2.4
@@ -3395,8 +3395,8 @@ packages:
       '@modelcontextprotocol/sdk':
         optional: true
 
-  '@openuidev/react-lang@0.2.5':
-    resolution: {integrity: sha512-OImhBXUQoIOlHEGc308e0BaJGVHrEA6qWv76xqc71sSQUoaWjn0zhCaGA8qcXGhqYVak4bzIbLikgO+L0Kf3tQ==}
+  '@openuidev/react-lang@0.2.6':
+    resolution: {integrity: sha512-5lfnMUiUyTQli0fPFwQtUhxV0B5T/PJntgZzUb0IXiJSyWm+FNpYOIozJxim0xxmqmuYwmk1geLTNcjzYIS6mA==}
     peerDependencies:
       '@modelcontextprotocol/sdk': '>=1.0.0'
       react: 19.2.4
@@ -7808,7 +7808,7 @@ snapshots:
     optionalDependencies:
       '@modelcontextprotocol/sdk': 1.27.1(zod@4.3.6)
 
-  '@openuidev/react-lang@0.2.5(@modelcontextprotocol/sdk@1.27.1(zod@4.3.6))(react@19.2.4)(zod@4.3.6)':
+  '@openuidev/react-lang@0.2.6(@modelcontextprotocol/sdk@1.27.1(zod@4.3.6))(react@19.2.4)(zod@4.3.6)':
     dependencies:
       '@openuidev/lang-core': 0.2.5(@modelcontextprotocol/sdk@1.27.1(zod@4.3.6))(zod@4.3.6)
       react: 19.2.4
